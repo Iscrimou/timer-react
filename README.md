@@ -8,7 +8,7 @@ Seguintes pontos abordados:
 - Um único estado pra guardar o tempo em segundos (Unidade de medida base que atende a maioria dos casos de uso).
 - Utilização de métodos do Javascript para as resoluções tanto em script quanto no render.
 - Manipulção visual do tempo apenas no render respeitando a lógica e evitando problemas de cálculo.
-- Utilização de function para manipular o estado evitando ter que trabalhar com old value, garantindo melhor performance do aplicação.
+- Utilização de function para manipular o estado evitando ter que trabalhar com old value, garantindo melhor performance da aplicação.
 
 ## Instalação e uso
 
@@ -26,4 +26,4 @@ Entre no diretório do projeto e execute:
    npm run dev
 ```
 
-No navegador teste utilizando o link `localhost:5173`.
+No navegador, teste utilizando o link `localhost:5173`.
